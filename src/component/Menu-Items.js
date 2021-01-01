@@ -1,0 +1,32 @@
+export  const MenuItems =[
+    {
+        title:'Home',
+        path:'/home',
+        cName:'link'
+    },
+    {
+        title:'Bollywood',
+        path:'/bollywood',
+        cName:'link'
+    },
+    {
+        title:'Technology',
+        path:'/technology',
+        cName:'link'
+    },
+    {
+        title:'Hollywood',
+        path:'/hollywood',
+        cName:'link'
+    },
+    {
+        title:'Fitness',
+        path:'/fitness',
+        cName:'link'
+    },
+    {
+        title:'Food',
+        path:'/food',
+        cName:'link'
+    },
+];
